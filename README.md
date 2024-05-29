@@ -62,6 +62,7 @@
     </header>
     <nav>
         <a href="#about">About Me</a>
+        <a href="#resume">Resume</a>
         <a href="#contact">Contact</a>
         <a href="#bible-notes">Bible Notes</a>
     </nav>
@@ -69,6 +70,10 @@
         <section id="about">
             <h2>About Me</h2>
             <p>Hello! My name is Pipololaoluwa. I am a student-worker with a deep love for Jesus and a passion for airplanes. I find joy in exploring the wonders of aviation and drawing inspiration from my faith. Welcome to my personal page where I share a bit about myself and my journey.</p>
+        </section>
+        <section id="resume">
+            <h2>Resume</h2>
+            <p>You can view my professional profile and resume on <a href="https://www.linkedin.com/in/pipololaoluwaadeayoalao/" target="_blank">LinkedIn</a>.</p>
         </section>
         <section id="contact">
             <h2>Contact</h2>
